@@ -1,0 +1,57 @@
+.slider{
+    background-image: url(../images/courses-bg.jpg);
+    background-size: cover;
+    background-color: #172238;
+    padding: 50px 0px;
+    height:100vh;
+    padding-left:30px;
+    padding-right:30px;
+}
+
+.slider1{
+    border:1px solid white;
+    width:20%;
+    height:70vh;
+    background-color: #fff;
+}
+
+.course-img{
+    width:100%;
+}
+
+.slider h4 , .slider p , .slider .author{
+    margin-left: 20px;
+}
+
+.slider p{
+    font-size: 12px;
+    line-height: 1.5rem;
+}
+
+.author{
+    border-radius: 50%;
+    border : 2px solid  #f5a425;
+}
+
+.slider a{
+    color:#f5a425;
+    float:right;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.slider2{
+    margin:-440px 300px;
+    position: absolute;
+}
+
+.slide3{
+    margin:-440px 600px;
+    position: absolute;
+}
+
+.slide4{
+    margin:-440px 900px;
+}
+
+

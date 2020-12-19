@@ -1,0 +1,60 @@
+.presentation{
+    background-image: url(../images/video-bg.jpg);
+    background-size: cover;
+    height: 120vh;
+    background-color: #172238;
+    padding: 120px 0px;
+}
+
+.video-caption{
+    margin:100px 100px;
+}
+
+.video-caption h5{
+    letter-spacing: 1px;
+    font-weight: 400;
+}
+
+.video-caption h6{
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 0.2px;
+    line-height: 1.5rem;
+}
+
+.video-caption a{
+    color:#3CF;
+}
+
+.video-caption a:hover{
+    color:#f5a425;
+}
+
+.img{
+    float:right;
+    margin:-600px 100px 0px 0px;
+}
+
+.img h4{
+    letter-spacing: 2px;
+    font-size: 25px;
+    margin-top: -50px;
+}
+
+.img button{
+    border-radius: 50%;
+    font-size: 26px;
+    height:60px;
+    width:60px;
+    border:none;
+    background-color: #f5a425;
+    color:#fff;
+    z-index: 10;
+    margin-left: 500px;
+}
+
+.img button:focus{
+    border:none;
+    outline:none;
+    cursor: pointer;
+}
